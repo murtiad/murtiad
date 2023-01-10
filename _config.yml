@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Arnadi Murtiyoso"
   avatar           : "IMG_20220609_194106678_BURST000_COVER_TOP_crop.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Geomatics engineer with a PhD in photogrammetry and interest in archaeology and cultural heritage documentation"
   location         : "Zurich, Switzerland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.fr/citations?user=JoXowwQAAAAJ&hl=en"
   email            : "arnadi.murtiyoso@usys.ethz.ch"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Arnadi-Murtiyoso"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "murtiad"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/arnadi-murtiyoso/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3310-8937"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@arimurtiyoso"
   vine             :
   weibo            :
   xing             :
