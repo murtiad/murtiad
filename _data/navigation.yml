@@ -9,8 +9,10 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "CV"
+    url: /cv/ 
+    
   - title: "Portfolio"
     url: "https://sketchfab.com/murtiyoso.arnadi"
     
-  - title: "CV"
-    url: /cv/ 
+
