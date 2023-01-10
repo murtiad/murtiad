@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can also find a complete list of my articles (60+) on <a href="https://scholar.google.fr/citations?user=JoXowwQAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
+A selection of my work, sorted by topics. You can also find a complete list of my articles (60+) on <a href="https://scholar.google.fr/citations?user=JoXowwQAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
 
 # My theses
 - PhD thesis (2020): <a href="http://dx.doi.org/10.13140/RG.2.2.14407.52643" target="_blank">Geospatial recording and point cloud classification of heritage buildings</a>. Advisor: Pierre Grussenmeyer. Jury members: Andreas Georgopoulos, Diego Gonzàlez-Aguilera, Pierre Charbonnier and Fabio Remondino.
@@ -38,10 +38,10 @@ objek arkeologi (Studi kasus: candi perwara nomor 72 komplek Candi Sewu)</a>. Ad
 - **Murtiyoso, A.**, Grussenmeyer, P., Landes, T. and Macher, H., 2021, July. First assessments into the use of commercial-grade solid state lidar for low cost heritage documentation. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIII-B2-2021, pp. 599–604. <a href="https://doi.org/10.5194/isprs-archives-XLIII-B2-2021-599-2021" target="_blank">https://doi.org/10.5194/isprs-archives-XLIII-B2-2021-599-2021</a>.
 - **Murtiyoso, A.** and Grussenmeyer, P., 2021. Experiments using smartphone-based videogrammetry for low-cost cultural heritage documentation. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVI-M-1-2021, pp. 487–491. <a href="https://doi.org/10.5194/isprs-archives-XLVI-M-1-2021-487-2021" target="_blank">https://doi.org/10.5194/isprs-archives-XLVI-M-1-2021-487-2021</a>.
 
-# In French
+# Pour les francophones
 - **Murtiyoso, A.**, 2020. Relevé 3D et classification de nuages de points du patrimoine bâti. Revue XYZ de l'Association francophone de topographie (AFT), No. 164, 3è trimestre 2020, pp. 33-42.
 
-# In Indonesian
+# Juga tersedia dalam bahasa Indonesia
 - Veriandi, M., Suwardhi, D., Trisyanti, S.W., Harto, A.B., **Murtiyoso, A.**, Soeksmantono, B., 2020. Program Konversi Peta Berstandar CityGML dari Produk Pemetaan Tiga Dimensi (3D). Prosiding Seminar Nasional Geomatika 2020, pp. 903-912.
 - **Murtiyoso, A.** and Suwardhi, D., 2017. Teknik Pencocokan Citra dalam Fotogrametri untuk Dokumentasi Cagar Budaya. in _Bunga Rampai Forum Peneliti Muda Indonesia 2017_, eds. Wikantika, K., Ariadji, F., Prastiwi, P., pp. 241-260.  Bandung: Penerbit ITB. 
 
