@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can also find a complete list of my articles (60+) on [my Google Scholar profile](https://scholar.google.fr/citations?user=JoXowwQAAAAJ&hl=en).
+You can also find a complete list of my articles (60+) on <a href="[http://example.com/](https://scholar.google.fr/citations?user=JoXowwQAAAAJ&hl=en))" target="_blank">my Google Scholar profile</a>.
 
 
 {% include base_path %}
