@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find a complete list of my articles (60+) on [my Google Scholar profile](https://scholar.google.fr/citations?user=JoXowwQAAAAJ&hl=en).
 
 
 {% include base_path %}
