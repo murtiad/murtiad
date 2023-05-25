@@ -13,7 +13,7 @@ main:
     url: /cv/ 
     
   - title: "Portfolio"
-    url: /portfolio/
-    #url: "https://sketchfab.com/murtiyoso.arnadi"
+    #url: /portfolio/
+    url: "https://sketchfab.com/murtiyoso.arnadi"
     
 
