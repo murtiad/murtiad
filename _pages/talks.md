@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %}
 
 # Invited talks
+- A Digital Link To the Past: AI and Geospatial Technologies for Heritage Documentation. Invited talk for <a href="https://ice-smartech.org/" target="_blank">ICE-SMARTECH 2023</a>, 17-19 July 2023 organised by Maranatha Christian University, Bandung, Indonesia.
+- Napak tilas maya: Peran teknik geospasial dan pembelajaran mesin dalam rekonstruksi 3D untuk dokumentasi cagar budaya. Webinar, 5 May 2023 organised by Center for Geospatial, BRIN.
 - Semantically enriched architectural photogrammetry using deep learning methods. Keynote talk for <a href="https://reaachid.wixsite.com/2022" target="_blank">REAACH-ID 2022</a>, 11-12 October 2022 organised by Sapienza Università di Roma. <a href="https://youtu.be/_SawXCRzCAo?t=48" target="_blank">Link to recording</a>.   
 - Digital twin for cultural heritage: Basic notions and case studies in Indonesia. Invited talk for <a href="https://elib.its.ac.id/conf/geoicon/" target="_blank">Geomatics International Conference 2022</a>, 26 July 2022 organised by Department of Geomatics Engineering, Institute Teknologi Sepuluh Nopember (ITS), Surabaya.
 - Leveraging deep learning to semantically enrich image-based 3D reconstruction of architectural objects. Invited talk for <a href="https://istar.iscte-iul.pt/unforeseen-paths/" target="_blank">Unforeseen Paths</a> Symposium, 5 July 2022 organised by ISTAR Lisbon. 
