@@ -18,8 +18,8 @@ I teach several courses in both ETH Zurich and INSA Strasbourg for Master level 
 - Supervision of PhD, MSc and BSc students.
 
 # INSA Strasbourg (France)
-- <a href="http://www.insa-strasbourg.fr/fr/programmes-des-etudes/G4/G4-ogctstm07phot3700300000.html" target="_blank">STM-TOPO-07-Photogrammétrie 3</a>: Introduction to computer vision. Autumn semester (2018-now). Lecture in French.
-- <a href="http://www.insa-strasbourg.fr/fr/programmes-des-etudes/G5/G5-odeptstm13ph4900000000.html" target="_blank">STM-TOPO-13-Photogrammétrie/MNT 4</a>: Bundle adjustment with and without damping, processing of aerial drone imagery. Autumn semester (2018-now). Lecture in French.
+- <a href="https://programme-etudes.insa-strasbourg.fr/fr/G4/G4-ogctstm07phot3700300000.html" target="_blank">STM-TOPO-07-Photogrammétrie 3</a>: Introduction to computer vision. Autumn semester (2018-now). Lecture in French.
+- <a href="https://programme-etudes.insa-strasbourg.fr/fr/G5/G5-odeptstm13ph4900000000.html" target="_blank">STM-TOPO-13-Photogrammétrie/MNT 4</a>: Bundle adjustment with and without damping, processing of aerial drone imagery. Autumn semester (2018-now). Lecture in French.
 - Supervision of MSc students.
 
 # ITB Bandung (Indonesia)
