@@ -14,4 +14,4 @@ I then continued my work in a PhD focusing on the use and exploitation of 3D tec
 
 I am currently employed since January 2022 as a postdoc researcher at the <a href="https://form.ethz.ch/" target="_blank">Forest Resources Management</a> group at ETH Zurich, Switzerland, where I investigate the use of 3D technologies to support a virtual forest system.
 
-I am always open for collaborations and discussions! If you have anything to talk on the topic of photogrammetry, geomatics, point clouds or 3D heritage documentation, don't hesitate to [email me](mailto:arnadi.murtiyoso@usys.ethz.ch) or contact/connect with me via any of the social media handles that you can find on the left sidebar! 
+I am always open for collaborations and discussions! If you have anything to talk on the topic of photogrammetry, geomatics, point clouds or 3D heritage documentation, don't hesitate to [email me](mailto:arnadi.murtiyoso@usys.ethz.ch) or contact/connect with me via any of the social media handles that you can find on the sidebar! 
