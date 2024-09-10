@@ -4,4 +4,4 @@ I then continued my work in a PhD focusing on the use and exploitation of 3D tec
 
 I am currently employed since January 2022 as a postdoc researcher at the [Forest Resources Management](https://form.ethz.ch/) group at ETH Zurich, Switzerland, where I investigate the use of 3D technologies to support a virtual forest system.
 
-Feel free to take a look at my publications, my 3D model portfolio (on Sketchfab) or my CV. Do not hesitate to contact me via any of the social handles that you can find on the left sidebar! 
+Feel free to take a look at my publications, my 3D model portfolio (on Sketchfab) or my CV. Do not hesitate to contact me via any of the social handles that you can find on the sidebar! 
